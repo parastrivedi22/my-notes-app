@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Elicps_Workspace\MyNotes_project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1398722796.index
+723484201.index
+2601782698.index
+1842860754.index
+1755451333.index
+1373886963.index

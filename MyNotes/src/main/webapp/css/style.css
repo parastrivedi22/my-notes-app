@@ -1,0 +1,16 @@
+body{
+	
+	
+	color:white !important;
+	background-color: #202124;
+}
+
+input, textarea{
+	color:white !important;
+	background:transparent  !important; 
+}
+
+.purple{
+	
+	background : #7e57c2;
+}

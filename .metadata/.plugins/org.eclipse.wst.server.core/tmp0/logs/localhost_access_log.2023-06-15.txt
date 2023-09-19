@@ -1,0 +1,13 @@
+127.0.0.1 - - [15/Jun/2023:13:59:55 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Jun/2023:13:59:57 +0530] "GET /MyNotes/index.jsp HTTP/1.1" 200 2091
+0:0:0:0:0:0:0:1 - - [15/Jun/2023:13:59:57 +0530] "GET /MyNotes/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Jun/2023:13:59:58 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [15/Jun/2023:14:00:25 +0530] "GET /MyNotes/add_note.jsp HTTP/1.1" 200 2562
+0:0:0:0:0:0:0:1 - - [15/Jun/2023:14:00:34 +0530] "GET /MyNotes/show_all_notes.jsp HTTP/1.1" 200 4579
+0:0:0:0:0:0:0:1 - - [15/Jun/2023:14:00:39 +0530] "GET /MyNotes/add_note.jsp HTTP/1.1" 200 2562
+0:0:0:0:0:0:0:1 - - [15/Jun/2023:14:01:39 +0530] "POST /MyNotes/SaveNoteServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Jun/2023:14:01:39 +0530] "GET /MyNotes/show_all_notes.jsp HTTP/1.1" 200 5029
+0:0:0:0:0:0:0:1 - - [15/Jun/2023:14:03:13 +0530] "GET /MyNotes/add_note.jsp HTTP/1.1" 200 2562
+0:0:0:0:0:0:0:1 - - [15/Jun/2023:14:03:14 +0530] "GET /MyNotes/show_all_notes.jsp HTTP/1.1" 200 5029
+0:0:0:0:0:0:0:1 - - [15/Jun/2023:14:03:24 +0530] "GET /MyNotes/show_all_notes.jsp HTTP/1.1" 200 5029
+0:0:0:0:0:0:0:1 - - [15/Jun/2023:14:07:31 +0530] "GET /MyNotes/add_note.jsp HTTP/1.1" 200 2562

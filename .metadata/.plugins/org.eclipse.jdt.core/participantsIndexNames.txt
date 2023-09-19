@@ -1,0 +1,5 @@
+INDEX VERSION 1.132
+C:\Elicps_Workspace\MyNotes_project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2925332238.index
+\MyNotes\src\main\java
+C:\Elicps_Workspace\MyNotes_project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\641173549.index
+\MyNotes\src\main\resources
